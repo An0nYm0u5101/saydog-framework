@@ -2,7 +2,7 @@ certifi==2020.4.5.2
 chardet==3.0.4
 click==7.1.2
 idna==2.9
-requests==2.23.0
+requests==2.31.0
 spark-parser==1.8.9
 uncompyle6==3.7.1
 urllib3==1.25.9
